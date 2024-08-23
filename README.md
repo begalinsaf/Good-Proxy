@@ -71,6 +71,9 @@ GoodProxy includes the following CORS headers by default:
 
 These can be modified as needed in the `request.ts` file.
 
+## Deploy
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/begalinsaf/Good-Proxy)
+
 ## Development
 
 For development, you can use the following commands:
